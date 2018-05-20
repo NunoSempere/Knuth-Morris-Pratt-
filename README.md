@@ -1,2 +1,2 @@
 # Knuth-Morris-Pratt-
-Implementation of the KMP algorithm in C
+This is the KMP algorithm implemented in C
